@@ -1,1 +1,2 @@
-Change file for commit.
+Change file for commit. 
+New information.
